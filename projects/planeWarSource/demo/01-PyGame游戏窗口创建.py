@@ -1,6 +1,6 @@
 """如何使用 PyGame 创建游戏主窗口"""
 import pygame
-import os  # 66666
+import os  # 
 
 if __name__ == '__main__':
 
