@@ -1,6 +1,6 @@
 """如何使用 PyGame 创建游戏主窗口"""
 import pygame
-import os  # ceshi 
+import os  # 测试
 
 if __name__ == '__main__':
 
