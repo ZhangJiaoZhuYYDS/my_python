@@ -1,4 +1,4 @@
-package main // 测试
+package main 
 
 import (
 	"github.com/gin-gonic/gin"
